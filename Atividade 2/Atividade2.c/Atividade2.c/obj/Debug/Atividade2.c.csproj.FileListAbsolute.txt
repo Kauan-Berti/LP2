@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\bin\Debug\Atividade2.c.exe.config
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\bin\Debug\Atividade2.c.exe
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\bin\Debug\Atividade2.c.pdb
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\obj\Debug\Atividade2.c.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\obj\Debug\Atividade2.c.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\obj\Debug\Atividade2.c.Form1.resources
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\obj\Debug\Atividade2.c.Properties.Resources.resources
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\obj\Debug\Atividade2.c.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\obj\Debug\Atividade2.c.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\obj\Debug\Atividade2.c.exe
+C:\Users\Admin\source\repos\Atividade2.c\Atividade2.c\obj\Debug\Atividade2.c.pdb
